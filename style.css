@@ -1,0 +1,82 @@
+body {
+    font-size: 100%;
+    font-family:"Calibri",sans-serif;
+    padding: 20px;
+}
+section {
+    margin-bottom: 30px;
+}
+
+.nospace {
+    margin-top: 0;
+    margin-bottom:0
+}
+
+H1  {
+    font-size:32px;
+    text-align: center; 
+    margin-top:20px; 
+    margin-bottom:20px
+}
+
+H2  {
+    font-size:20px;
+    margin-bottom: 5px;
+}
+
+H3  {
+    font-size:18px;
+    font-weight: normal;
+    margin-bottom: 5px;
+}
+
+.par1 {
+    margin-top: 10px;
+}
+
+.hline {
+    border-bottom:solid 2px;
+}
+
+/* hr horizontal line tag not used. Line did not display properly when hr tag between h2 and h3 tags */
+hr {
+    border: none;
+    background-color: rgb(8, 8, 8);
+    height: 1.5px;
+    margin-top: 2px;
+}
+
+
+ul {
+    list-style-position: outside; /* default */
+    padding-left:15px;
+    margin-top:5px;
+    margin-bottom:20px;
+  }
+
+/* contact info top of page */ 
+  .column {
+    float: left;
+    padding: 3px 10px;
+    font-weight: bold;
+  }
+/* give R border to 3 of 4 columns containing contact info */
+  .rborder {
+    border-right: 1px solid;
+  }
+
+  /* Clear floats after the columns */
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+
+
+  .row {
+    max-width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+ 
