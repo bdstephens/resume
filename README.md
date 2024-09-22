@@ -1,10 +1,10 @@
 # Resume Website Design
 
-This repository was built as part of the [Cloud Resume Challenge](https://cloudresumechallenge.dev). One of the steps in the challenge involves creating a static resume website. This repo contains all the files needed to build a static resume website.
+This repository was built as part of the [Cloud Resume Challenge](https://cloudresumechallenge.dev). One of the steps in the challenge involves creating a static resume website. This repo contains all the files needed to build a static resume website. The live version of the website can be found at https://bdstephens.github.io/resume/.
 
 Four different resume versions are provided for you to use as a guide in creating your own resume website.
 
-The primary version of the resume is found in the parent directory of this repo. It is based on the Dimension template at https://html5up.net/dimension and is built using HTML, CSS, and Javascript.
+The files for the primary version of the resume is found in the parent directory of this repo. It is based on the Dimension template at https://html5up.net/dimension and is built using HTML, CSS, and Javascript.
 
 The other three resume versions are simpler one-page designs and can be accessed in the alternatives directory. 
 * The directory alternatives>onepagev1 contains my basic one-page website built with HTML, CSS and no Javascript.
